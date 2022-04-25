@@ -135,6 +135,8 @@ function Greeting($name){
     return 0; 
 }
 
+Greeting("Lee");
+
 ?>
 </body>
 </html>
